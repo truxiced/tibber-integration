@@ -8,7 +8,7 @@
     "lint": "eslint . --fix"
   },
   "author": "Gustav Granelli",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@types/node-fetch": "^2.6.2",
     "@urql/exchange-auth": "^0.1.7",
